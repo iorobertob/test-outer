@@ -1,2 +1,1 @@
-print 'labas modified outer'
-
+print 'labas modified '
